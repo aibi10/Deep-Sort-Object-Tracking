@@ -1,5 +1,11 @@
 # Project: Object Tracking Using Deep Sort and YOLOv3
 
+
+
+https://user-images.githubusercontent.com/45706760/213910543-0c0c8166-50e7-4923-8480-92814b39b82a.mp4
+
+
+
 ## Introduction
 This is an implement of MOT tracking algorithm deep sort. Deep sort is basicly the same with sort but added a CNN model to extract features in image of human part bounded by a detector. This CNN model is indeed a RE-ID model and the detector used in [PAPER](https://arxiv.org/abs/1703.07402) is FasterRCNN.
 
